@@ -1,4 +1,4 @@
-# Image Style Transfer with VGG19
+# Image Style Transfer with VGG19.
 
 ## Overview
 
